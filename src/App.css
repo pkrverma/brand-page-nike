@@ -39,7 +39,7 @@ button {
     padding: 6px 16px;
     background: var(--red);
     height: 32px;
-    color: var(--white);
+    color: white;
     font-weight: 500;
 }
 
